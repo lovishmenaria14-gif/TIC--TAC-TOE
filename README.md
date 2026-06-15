@@ -12,13 +12,6 @@ You can host this project using GitHub Pages and add the link here.
 
 ---
 
-## 📸 Preview
-
-![Tic Tac Toe](<img width="1915" height="893" alt="Screenshot 2026-06-15 143654" src="https://github.com/user-attachments/assets/5154b151-fa4f-4c22-8284-d8dce01e5e07" />
-)
-
----
-
 ## ✨ Features
 
 - 🎯 Two-player gameplay
