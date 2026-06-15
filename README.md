@@ -8,7 +8,7 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 You can host this project using GitHub Pages and add the link here.
 
-**Demo:** https://your-username.github.io/tic-tac-toe/
+**Demo:** [https://lovishmenaria14-gif.github.io/tic-tac-toe/](https://lovishmenaria14-gif.github.io/TIC--TAC-TOE/)
 
 ---
 
