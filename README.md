@@ -144,8 +144,7 @@ Currently open for enhancements and improvements.
 
 ### Lovish Menaria
 
-- GitHub: https://github.com/lovishmenaria
-- LinkedIn: https://linkedin.com/in/lovishmenaria14-gif
+- GitHub: [https://github.com/lovishmenaria](https://github.com/lovishmenaria14-gif)
 
 ---
 
